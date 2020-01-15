@@ -7,10 +7,7 @@ setup(
     description='This is a Python Package implementing Topsis meathod used for multi-criteria decision analysis method',
     author='Shivam Behl',
     author_email='shivambehl123@gmail.com',
-    url='https://github.com/shivambehl/',
-    # I explain this later on
-    download_url='https://github.com/shivambehl/PyTopsis/archive/v_0.1.tar.gz',
-    # Keywords that define your package best
+    url='https://github.com/shivambehl/PyTopsis',
     keywords=['topsis', 'mcda', 'UCS633', 'TIET'],
     install_requires=[            # I get to this in a second
         'numpy',
