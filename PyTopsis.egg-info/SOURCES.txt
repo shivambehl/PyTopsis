@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+PyTopsis/__init__.py
+PyTopsis/main.py
+PyTopsis.egg-info/PKG-INFO
+PyTopsis.egg-info/SOURCES.txt
+PyTopsis.egg-info/dependency_links.txt
+PyTopsis.egg-info/requires.txt
+PyTopsis.egg-info/top_level.txt

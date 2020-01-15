@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: PyTopsis
+Version: 0.1
+Summary: This is a Python Package implementing Topsis meathod used for multi-criteria decision analysis method
+Home-page: https://github.com/shivambehl/PyTopsis
+Author: Shivam Behl
+Author-email: shivambehl123@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: topsis,mcda,UCS633,TIET
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Students
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
